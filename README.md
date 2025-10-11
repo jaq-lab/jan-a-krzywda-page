@@ -4,32 +4,32 @@ Welcome to the research organization of Jan A. Krzywda, focused on advancing qua
 
 ## Research Areas
 
-### 🧠 [Quantum Learning Machines](quantum-learning-machines/)
+### 🧠 [Quantum Learning Machines](https://github.com/JAK-lab/qlm-quantum-learning-machines)
 **Practical use of noisy quantum devices for data-driven learning, reinforcement learning and generative AI.**
 
 Exploring the intersection of quantum computing and artificial intelligence, developing practical applications for noisy quantum devices in machine learning contexts.
 
-### ⚡ [Charge Noise in Spin Qubits](charge-noise-spin-qubits/)
+### ⚡ [Charge Noise in Spin Qubits](https://github.com/JAK-lab/cnsq-charge-noise-spin-qubits)
 **Arguably the biggest obstacle to large scale spin qubit device. Experimental characterization and ab-initio simulation.**
 
 Addressing one of the most critical challenges in quantum computing through comprehensive experimental analysis and theoretical modeling of charge noise effects.
 
-### 🎮 [Quantum Games](quantum-games/)
+### 🎮 [Quantum Games](https://github.com/JAK-lab/qg-quantum-games)
 **Games drive progress, from chess to computer graphics. Now the time has come to quantum technologies.**
 
 Developing quantum game theory and interactive quantum applications that drive innovation in quantum computing technologies.
 
-### 🔬 [Spin Qubits Emulator](spin-qubit-emulator/)
+### 🔬 [Spin Qubits Emulator](https://github.com/JAK-lab/sqe-spin-qubit-emulator)
 **Spin qubit are complex. Lots of data is needed for autonomous tuning and new algorithms dev. Digital twin is needed for that.**
 
 Creating sophisticated digital twins of spin qubit systems to enable autonomous tuning, algorithm development, and comprehensive data analysis.
 
-### 🎛️ [Quantum Feedback Control](quantum-feedback-control/)
+### 🎛️ [Quantum Feedback Control](https://github.com/JAK-lab/qfc-quantum-feedback-control)
 **Qubits suffer from dynamical noise. We deploy real-life FPGA controller to track down and correct random fluctuations.**
 
 Implementing real-time quantum control systems using FPGA technology to mitigate dynamical noise and stabilize quantum states.
 
-### 🤖 [Machine Learning for Quantum](machine-learning-quantum/)
+### 🤖 [Machine Learning for Quantum](https://github.com/JAK-lab/mlq-machine-learning-quantum)
 **Classical machine learning methods for processing and simulating quantum systems and devices from sparse data.**
 
 Applying classical machine learning techniques to understand, simulate, and optimize quantum systems using limited experimental data.
