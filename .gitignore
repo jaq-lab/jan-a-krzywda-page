@@ -1,0 +1,73 @@
+# Large data files
+*.zarr/
+*.zarr
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.csv
+*.txt
+*.dat
+
+# Binary files
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Media files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+*.eps
+*.ps
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
