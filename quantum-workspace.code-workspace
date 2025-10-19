@@ -1,0 +1,51 @@
+{
+    "folders": [
+        {
+            "name": "world-models-quantum",
+            "path": "./machine-learning-quantum/repos/world-models-quantum"
+        },
+        {
+            "name": "shadow-qml",
+            "path": "./quantum-learning-machines/repos/shadow-qml"
+        },
+        {
+            "name": "generative-quantum",
+            "path": "./quantum-learning-machines/repos/generative-quantum"
+        },
+        {
+            "name": "quantum-reservoir-computing",
+            "path": "./quantum-learning-machines/repos/quantum-reservoir-computing-with-noise"
+        },
+        {
+            "name": "charge-noise-comsol",
+            "path": "./charge-noise-spin-qubits/repos/charge-noise-comsol"
+        },
+        {
+            "name": "charge-noise-comsol-1",
+            "path": "./charge-noise-spin-qubits/repos/charge-noise-comsol-1"
+        },
+        {
+            "name": "spatial-correlations-conveyor",
+            "path": "./charge-noise-spin-qubits/repos/spatial-correlations-conveyor"
+        },
+        {
+            "name": "err_corr_game",
+            "path": "./quantum-games/repos/err_corr_game"
+        },
+        {
+            "name": "T1_estimation",
+            "path": "./quantum-feedback-control/Repos/T1_estimation"
+        },
+        {
+            "name": "ReadSpyn",
+            "path": "./spin-qubit-emulator/repos/ReadSpyn"
+        },
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "/usr/bin/python3",
+        "jupyter.defaultKernel": "python3"
+    }
+}
